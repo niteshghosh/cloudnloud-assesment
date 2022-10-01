@@ -1,0 +1,17 @@
+commit 7ded5ab64115bf7c1c7679d0e6ad46d16f8751ec
+Author: Nitesh Ghosh <nitesh.ghosh38@gmail.com>
+Date:   Sat Oct 1 17:55:23 2022 +0530
+
+    adding git ignore file as per steps
+
+commit 573784dd4a56b84e3ed3b0dd5331883ef110f806
+Author: Nitesh Ghosh <nitesh.ghosh38@gmail.com>
+Date:   Sat Oct 1 17:52:13 2022 +0530
+
+    test file created as per steps
+
+commit 6b7b844c7778fb19cdc31c46814bc4816eecb0a1
+Author: Nitesh Ghosh <nitesh.ghosh38@gmail.com>
+Date:   Sat Oct 1 17:46:12 2022 +0530
+
+    ReadMe file added
